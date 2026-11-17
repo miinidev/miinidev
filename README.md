@@ -1,19 +1,26 @@
-# 🧑‍💻 Felipe Marques
+# Felipe Marques
 
-Me chamo Felipe Marques, tenho 32 anos e sou natural de Sorocaba. Tenho formação técnica em mecatrônica. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera.
+Estudante de **Análise e Desenvolvimento de Sistemas**, com formação técnica em **Mecatrônica** e experiência profissional na área de eletrônica e manutenção.
+
+Atualmente estou desenvolvendo meus conhecimentos em programação, começando por **Python**, lógica de programação e fundamentos de desenvolvimento de software.
+
+## Objetivos
+
+- Consolidar a lógica de programação e os fundamentos de Python.
+- Desenvolver projetos práticos e documentar minha evolução.
+- Aplicar os conhecimentos acadêmicos em projetos.
+- Construir experiência na área de desenvolvimento de software.
+
+## Tecnologias em estudo
+
+- **Python** — em aprendizado
+- **Git e GitHub** — versionamento e organização dos estudos
+
+## Repositórios
+
+- [Estudos de Python](https://github.com/miinidev/estudos-python) — exercícios e pequenos programas desenvolvidos durante os estudos.
+- [Faculdade ADS](https://github.com/miinidev/faculdade-ads) — atividades e projetos acadêmicos.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
+Este perfil reúne meus estudos, projetos e evolução na área de tecnologia.
